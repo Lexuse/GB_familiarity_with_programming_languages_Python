@@ -22,4 +22,3 @@ maxb = max(nums)
 
 print("Минимальный вес арбуза =", mina, ", Максимальный вес =", maxb)
 
-#finished
